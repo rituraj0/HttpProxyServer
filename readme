@@ -1,0 +1,5 @@
+A simple HTTP proxy server( caching added) and HTTP command line client. 
+This implementation will work for HTTP/1.0, which is
+specified as RFC 1945. 
+Hello
+World
